@@ -1,7 +1,7 @@
 function App() {
   return (
     <div>
-      <h1>App</h1>
+      <h1>App Updated</h1>
       <p>
         Lorem ipsum dolor sit amet consectetur adipisicing elit. Eius
         cupiditate, dolores, ullam nostrum aperiam ut nulla impedit vero, odio
